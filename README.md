@@ -18,6 +18,7 @@
 
 <div style="display: inline_block"><br/>
    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img aling="center" alt="html5" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logo=javascript&logoColor=white"/>
    <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img aling="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
